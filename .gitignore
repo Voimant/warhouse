@@ -1,0 +1,4 @@
+.idea
+__pycache__
+venv
+warehouse_db/__pycache__
